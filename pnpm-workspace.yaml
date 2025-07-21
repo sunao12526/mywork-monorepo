@@ -1,0 +1,8 @@
+packages:
+  - my-app
+  - packages/*
+  - apps/*
+  - components/**
+  - '!**/test/**'
+
+nodeLinker: hoisted
