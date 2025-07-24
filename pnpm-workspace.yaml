@@ -3,6 +3,6 @@ packages:
   - apps/* # 应用程序目录
   - tools/* # 工具目录
   - components/**
-  - '!**/test/**'
+  - "!**/test/**"
 
 nodeLinker: hoisted
